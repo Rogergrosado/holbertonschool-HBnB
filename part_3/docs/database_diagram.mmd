@@ -1,6 +1,3 @@
-# Database Diagram
-
-```mermaid
 erDiagram
     User {
         string id PK
@@ -45,4 +42,3 @@ erDiagram
     Place }o--o{ Amenity : "has"
     Place ||--o{ Place_Amenity : "includes"
     Amenity ||--o{ Place_Amenity : "is included in"
-```
