@@ -1,4 +1,4 @@
-# Project HbNb
+# Project HBmB
 
 This project was carried out by: Roger G. Rosado
 
