@@ -1,4 +1,4 @@
-# Diagramme UML
+# Diagram UML
 
 ```mermaid
 classDiagram
